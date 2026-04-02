@@ -1,4 +1,5 @@
-import Featuressection from "./Component.jsx/Featuressection"
+import ContactPage from "./Component.jsx/ContactPage"
+
 
 
 
@@ -6,7 +7,7 @@ import Featuressection from "./Component.jsx/Featuressection"
 const App = () => {
   return (
     <div >
-<Featuressection/>
+<ContactPage/>
     </div>
   )
 }
