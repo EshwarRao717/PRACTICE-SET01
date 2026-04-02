@@ -1,4 +1,5 @@
-import AboutUs from "./Component.jsx/AboutUs"
+import FooterLayout from "./Component.jsx/FooterLayout"
+
 
 
 
@@ -8,7 +9,7 @@ import AboutUs from "./Component.jsx/AboutUs"
 const App = () => {
   return (
     <div >
-<AboutUs/>
+<FooterLayout/>
     </div>
   )
 }
