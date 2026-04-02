@@ -1,4 +1,5 @@
-import ProfilePage from "./BasicPage/ProfilePage"
+import LandingPage from "./BasicPage/LandingPage"
+
 
 
 
@@ -8,7 +9,7 @@ import ProfilePage from "./BasicPage/ProfilePage"
 const App = () => {
   return (
     <div >
-<ProfilePage/>
+<LandingPage/>
     </div>
   )
 }
