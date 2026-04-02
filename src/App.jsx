@@ -1,4 +1,5 @@
-import Dashboard from "./Component.jsx/Dashboard"
+import BlogPostLayout from "./Component.jsx/BlogPostLayout"
+
 
 
 
@@ -10,7 +11,7 @@ import Dashboard from "./Component.jsx/Dashboard"
 const App = () => {
   return (
     <div >
-<Dashboard/>
+<BlogPostLayout/>
     </div>
   )
 }
