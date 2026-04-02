@@ -1,10 +1,11 @@
-import ProductShowcase from "./Component.jsx/ProductShowcase"
+import PricingSection from "./Component.jsx/PricingSection"
+
 
 
 const App = () => {
   return (
     <div >
-<ProductShowcase/>
+<PricingSection/>
     </div>
   )
 }
