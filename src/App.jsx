@@ -1,17 +1,10 @@
-import Coursepage from "./Component.jsx/Coursepage"
-
-
-
-
-
-
-
+import Cardcollection from "./Component.jsx/Cardcollection"
 
 
 const App = () => {
   return (
     <div >
-<Coursepage/>
+<Cardcollection/>
     </div>
   )
 }
