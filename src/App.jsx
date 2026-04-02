@@ -1,17 +1,10 @@
-import BlogPostLayout from "./Component.jsx/BlogPostLayout"
-
-
-
-
-
-
-
+import ProductShowcase from "./Component.jsx/ProductShowcase"
 
 
 const App = () => {
   return (
     <div >
-<BlogPostLayout/>
+<ProductShowcase/>
     </div>
   )
 }
