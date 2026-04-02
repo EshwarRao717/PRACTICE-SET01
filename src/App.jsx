@@ -1,10 +1,11 @@
-import Cardcollection from "./Component.jsx/Cardcollection"
+import StaticWebsite from "./BasicPage/StaticWebsite"
+
 
 
 const App = () => {
   return (
     <div >
-<Cardcollection/>
+        <StaticWebsite/>
     </div>
   )
 }
