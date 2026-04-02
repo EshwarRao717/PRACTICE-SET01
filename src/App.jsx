@@ -1,4 +1,5 @@
-import FooterLayout from "./Component.jsx/FooterLayout"
+import FAQSection from "./Component.jsx/FAQSection"
+
 
 
 
@@ -9,7 +10,7 @@ import FooterLayout from "./Component.jsx/FooterLayout"
 const App = () => {
   return (
     <div >
-<FooterLayout/>
+<FAQSection/>
     </div>
   )
 }
