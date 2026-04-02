@@ -1,4 +1,5 @@
-import ContactPage from "./Component.jsx/ContactPage"
+import AboutUs from "./Component.jsx/AboutUs"
+
 
 
 
@@ -7,7 +8,7 @@ import ContactPage from "./Component.jsx/ContactPage"
 const App = () => {
   return (
     <div >
-<ContactPage/>
+<AboutUs/>
     </div>
   )
 }
