@@ -1,4 +1,5 @@
-import FAQSection from "./Component.jsx/FAQSection"
+import Coursepage from "./Component.jsx/Coursepage"
+
 
 
 
@@ -10,7 +11,7 @@ import FAQSection from "./Component.jsx/FAQSection"
 const App = () => {
   return (
     <div >
-<FAQSection/>
+<Coursepage/>
     </div>
   )
 }
