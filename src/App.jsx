@@ -1,4 +1,5 @@
-import LandingPage from "./BasicPage/LandingPage"
+import Dashboard from "./Component.jsx/Dashboard"
+
 
 
 
@@ -9,7 +10,7 @@ import LandingPage from "./BasicPage/LandingPage"
 const App = () => {
   return (
     <div >
-<LandingPage/>
+<Dashboard/>
     </div>
   )
 }
