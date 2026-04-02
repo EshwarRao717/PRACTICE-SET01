@@ -1,11 +1,12 @@
-import PricingSection from "./Component.jsx/PricingSection"
+import Featuressection from "./Component.jsx/Featuressection"
+
 
 
 
 const App = () => {
   return (
     <div >
-<PricingSection/>
+<Featuressection/>
     </div>
   )
 }
